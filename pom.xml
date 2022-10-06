@@ -36,6 +36,13 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>uz.model</groupId>
+            <artifactId>model</artifactId>
+            <scope>system</scope>
+            <version>1.0</version>
+            <systemPath>C:\b6\e-commerce\front-service\lib\model-liblary.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <build>
